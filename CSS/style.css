@@ -1,0 +1,67 @@
+.container{
+  margin: 25svh 35svw 0 35svw;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 25px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #FFE5E5;
+}
+
+#title{
+  font-size: 36px;
+}
+
+.content{
+  margin-top: 20px;
+}
+
+.content form{
+  text-align: left;
+}
+
+.form-row{
+  margin-left: 9svw;
+}
+
+.form-row input{
+  margin: 5px;
+}
+.container-bg{
+
+   background-color: #FFE5E5 ;
+}
+.container-bg{
+  margin: 25svh 35svw 0 35svw;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 25px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+#title{
+  font-size: 36px;
+}
+
+.content{
+  margin-top: 20px;
+}
+
+.content form{
+  text-align: left;
+}
+
+.form-row{
+  margin-left: 10svw;
+}
+
+.form-row input{
+  margin: 5px;
+}
+
+.containter-form1{
+  margin: 25svh 35svw 0 35svw;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 25px;
+  font-family: 'Segoe UI', sans-serif;
+}
